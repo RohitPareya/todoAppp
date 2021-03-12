@@ -1,0 +1,10 @@
+ul li.checked {
+  background: grey;
+  color: white;
+  text-decoration: line-through;
+  width: fit-content;
+}
+
+.close {
+  padding: 12px 16px 12px 16px;
+}
